@@ -1,8 +1,8 @@
 # React Freeshelf
 
-## Directions
+## Directions - day 1
 
-Your project for today and tomorrow is to build a single-page application that displays books using React. You should use `create-react-app` to create the application and build up from there.
+Your project this week is to build a single-page application that displays books using React. You should use `create-react-app` to create the application and build up from there.
 
 The finished product will look like the included wireframe. When the information for that book is clicked, the section expands to show additional information about the book. When it is clicked again, it should collapse back to the original view. This behavior is commonly referred to as an accordion, like [this component in Bootstrap](https://getbootstrap.com/docs/4.0/components/collapse/#accordion-example).
 
@@ -28,6 +28,11 @@ The books are held in [books.json](books.json). Create React App makes it so tha
 import books from './books.json'
 ```
 
-## Wireframe
+### Wireframe
 
 ![Wireframe](freeshelf-wireframe.png)
+
+
+## Directions - day 2
+
+Forthcoming!
